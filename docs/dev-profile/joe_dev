@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>PFC JO Dev Profile</title>
+  </head>
+  <body>
+    <h1> Joseph Powell's Dev Profile</h1>
+    <img src="https://avatars2.githubusercontent.com/u/47085760?s=40&v=4" alt="Pic of Joe.">
+    <p>
+      Wassup Y'all, I'm Joseph & This Is My World! My Dev Profile!
+    </p>
+    <ul>
+      <li>GitHub Profile: <a href="https://github.com/jpowelliv</a></li>
+      <li>Major: Computer Information Technology, Concentrate in Money :-)/UX</li>
+      <li>Graduation Year: 2021</li>
+      <li>Favorite Song: This Woman's Work-Maxwell </li>
+      <li>Skills: Gaming and Game Development
+      <li>Dev Enviroment:
+        <ul>
+          <li>Windows 10 </li>
+          <li>Code Editor: Atom and Visual Studio</li>
+        </ul>
+      </li>
+      <li>Tools from class:
+        <ol>
+          <li>GitHub</li>
+          <li>GitBash</li>
+          <li>Git command: ls - list all files ad folders in current directory</li>
+          <li>Git command: mkdir - makes a directory</li>
+          <li>Markdown language</li>
+        </ol>
+      </li>
+    </ul>
+
+  </body>
+</html>
